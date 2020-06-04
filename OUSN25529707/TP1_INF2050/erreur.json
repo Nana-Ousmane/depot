@@ -1,11 +1,11 @@
 {
-  "nom": "Jacques Berger" ,
+  "nom": "Robert Stark",
   "genre": 1,
-  "age": 78,
+  "age": 85,
   "fumeur": {
-    "tabac": false,
+    "tabac": true,
     "cannabis": false
   },
   "alcool": true
-
 }
+

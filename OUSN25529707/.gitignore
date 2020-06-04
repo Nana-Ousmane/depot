@@ -1,0 +1,6 @@
+*.class
+*.xml
+*.iml
+.idea/*
+*.jar
+.DS_Store

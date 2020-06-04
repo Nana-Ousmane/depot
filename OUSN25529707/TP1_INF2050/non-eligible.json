@@ -1,11 +1,10 @@
 {
-  "nom": "Jacques Berger" ,
+  "nom": "Michael Jackson",
   "genre": 1,
-  "age": 78,
+  "age": 81,
   "fumeur": {
     "tabac": false,
     "cannabis": false
   },
   "alcool": true
-
 }
